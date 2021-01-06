@@ -1,0 +1,64 @@
+h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue';
+}
+.intro{
+    color: #363958;
+}
+.name{
+    color: #FF8367;
+}
+p{
+    font-size: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    text-align: left;
+}
+.Link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,lightsalmon,rgb(219, 67, 67));
+    padding: 10px 20px;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 1%;
+}
+
+h2{
+    font-size: 48px;
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    
+}
+body{
+    margin: 12%;
+}
+.com{
+    text-align: center;
+}
+.box img{
+    width: 25%;
+    height: 30%;
+    float: left;
+}
+h4{
+    font-family: Roboto;
+    font-style: normal;
+   font-weight: bold;
+    font-size: 24px;
+}
+.background{
+    background: #e5e5e5;
+}
